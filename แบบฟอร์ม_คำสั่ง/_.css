@@ -9,6 +9,7 @@
     font-weight: normal;
     font-style: normal;
 }
+
 .c51 {
   font-size: 29pt;
   font-family: "Sarabun";
@@ -17,8 +18,10 @@
 .c50 {
   background-color: #ffffff;
   max-width: 453.5pt;
+  min-width: 453.5pt;
   padding: 42.5pt 56.7pt 56.7pt 85pt;
 }
+
 .c0 {
   font-size: 20pt;
   font-family: "Sarabun";
